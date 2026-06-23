@@ -1,0 +1,34 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 2000px;
+    margin: 2rem;
+    line-height: 1.5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1, h2{
+    color: #ac0c47;
+}
+li, a{
+    font-family:fantasy;
+    font-size: 1.2rem;
+    color: #9d2c2c;
+}
+p{
+    line-height: 1.5;
+    color: white;
+}
+img{
+    max-width: 100%;
+    margin: 1rem;
+}
+.content{
+    max-width: 100%;
+}
+.albums{
+    color:#9d2c2c;
+    margin: 2rem;
+    font-family: fantasy;  
+}
+
